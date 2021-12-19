@@ -21,3 +21,6 @@ Host someinternalhost
   User appuser
   ProxyJump bastion
 
+bastion_IP = 62.84.116.239 
+someinternalhost_IP = 62.84.116.239
+
