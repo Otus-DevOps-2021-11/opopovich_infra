@@ -24,3 +24,7 @@ Host someinternalhost
 bastion_IP = 62.84.116.239 
 someinternalhost_IP = 62.84.116.239
 
+#Additional task add letsencrypt cert to pritunl web server
+#Install certbot and add this line in field LetsEncrypt certificate
+62.84.116.239.sslip.io
+
