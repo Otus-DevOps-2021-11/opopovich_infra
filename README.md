@@ -29,6 +29,8 @@ Host someinternalhost
   User appuser
   
   ProxyJump bastion
+  
+  
 
 bastion_IP = 62.84.116.239 
 
@@ -39,7 +41,9 @@ someinternalhost_IP = 62.84.116.239
 #Install certbot via snapd 
 
 sudo apt install snapd
+
 sudo snap install core; sudo snap refresh core
+
 sudo snap install --classic certbot
 
 #and add this line in field LetsEncrypt certificate in Settings section
