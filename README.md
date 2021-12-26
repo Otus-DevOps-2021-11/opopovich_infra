@@ -28,3 +28,6 @@ someinternalhost_IP = 62.84.116.239
 #Install certbot and add this line in field LetsEncrypt certificate
 62.84.116.239.sslip.io
 
+testapp_IP = 62.84.118.94 
+testapp_port = 9292
+
