@@ -3,7 +3,7 @@
         {
             "type": "yandex",
             "service_account_key_file": "key.json",
-            "folder_id": "b1g56is9m3uidc8mpart",
+            "folder_id": "fsafsdfsadfsfpart",
             "source_image_family": "ubuntu-1604-lts",
             "image_name": "reddit-base-{{timestamp}}",
             "image_family": "reddit-base",
