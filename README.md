@@ -43,4 +43,10 @@ lts,size=10GB \ 
 --metadata serial-port-enable=1 \
 --metadata-from-file user-data=metadata.yaml
 
+Terraform -1 homework
+
+1. Deploy previously created with packer image
+2. Add ssh keys to able to login to host without password
+3. Add variable to parametrise deployment
+
 
