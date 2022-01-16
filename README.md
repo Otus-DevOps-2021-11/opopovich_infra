@@ -127,5 +127,7 @@ Add variable to parametrise deployment
 Terraform -2 homework
 
 Change terraform configuration
+
 Add modules
+
 Parametrise name of instance
