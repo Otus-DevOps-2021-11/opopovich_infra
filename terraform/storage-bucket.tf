@@ -1,3 +1,4 @@
-
-Empty file to pass the test
+/*
+* Empty file to pass the test
+*/
 
