@@ -132,3 +132,11 @@ Terraform -2 homework
 Add modules
 
 Parametrise name of instance
+
+Ansible -1 homework
+
+Install pip and ansible
+
+Created playbook
+
+After delete reddit directory recreated by ansible.
