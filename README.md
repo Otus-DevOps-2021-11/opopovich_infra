@@ -66,7 +66,10 @@ yc compute instance create \ 
 
 --metadata-from-file user-data=metadata.yaml
 
-Домашнее задание № 7. Packer
+
+
+# Домашнее задание № 7. Packer
+
 
 Установили packer
 
@@ -125,8 +128,6 @@ Add ssh keys to able to login to host without password
 Add variable to parametrise deployment
 
 Terraform -2 homework
-
-Change terraform configuration
 
 Add modules
 
