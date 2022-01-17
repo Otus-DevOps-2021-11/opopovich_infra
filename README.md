@@ -72,6 +72,7 @@ lts,size=10GB \ 
 
 --metadata-from-file user-data=metadata.yaml
 
+
 # Домашнее задание № 7. Packer
 
 Установили packer
@@ -125,8 +126,10 @@ Failed to find instance ip address: instance has no one IPv4 external address
 
 Создаем key.json похожий на боевой чтобы пройти автотесты
 
+Terraform -1 homework
 
-
-
+1. Deploy previously created with packer image
+2. Add ssh keys to able to login to host without password
+3. Add variable to parametrise deployment
 
 
