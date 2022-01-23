@@ -17,5 +17,5 @@ module "db" {
   public_key_path = var.public_key_path
   db_disk_image   = var.db_disk_image
   subnet_id       = var.subnet_id
-  instance-name   = "reddit-app-prod"
+  instance-name   = "reddit-db-prod"
 }

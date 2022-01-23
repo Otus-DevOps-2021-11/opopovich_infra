@@ -150,3 +150,13 @@ Created many playbooks
 Changed packer provider to use ansible playbooks.
 
 Checked all VM created succefully,app deployed and checked
+
+Ansible-3 homework
+
+Created roles,group_vars
+
+Add community role jdauphant.nginx
+
+Checked app available on port 80
+
+Create ansible vault,encrypted credentials and created users.
