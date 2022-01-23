@@ -140,3 +140,13 @@ Install pip and ansible
 Created playbook
 
 After delete reddit directory recreated by ansible.
+
+Ansible-2 homework
+
+This is a hardest homework ever.
+
+Created many playbooks
+
+Changed packer provider to use ansible playbooks.
+
+Checked all VM created succefully,app deployed and checked
