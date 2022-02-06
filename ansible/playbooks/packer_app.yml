@@ -1,14 +1,6 @@
-- hosts: all
-  become: yes
-  tasks:
-    - name: Install packages
-      apt:
-        name: "{{ item }}"
-        update_cache: yes
-      loop:
-        - ruby-full 
-        - ruby-bundler 
-        - build-essential 
-        - apt-transport-https 
-        - ca-certificates 
-        - git
+---
+- name: Install Ruby && Bundler
+  hosts: all
+  become: true
+  roles:
+    - { role:  app }
