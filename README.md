@@ -160,3 +160,17 @@ Add community role jdauphant.nginx
 Checked app available on port 80
 
 Create ansible vault,encrypted credentials and created users.
+
+Ansible-4 homework
+
+Learn how to work with Vagrant,Vagrantfile
+
+Deploy app in virtualbox via Vagrant
+
+Try to config Nginx ( task with *)
+
+Configure Molecule and run test
+
+Write test to check mongodb port
+
+Rewrite packer playbook
