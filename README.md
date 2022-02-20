@@ -174,3 +174,13 @@ Configure Molecule and run test
 Write test to check mongodb port
 
 Rewrite packer playbook
+
+Gitlab-ci-1
+
+-Развернут контейнер с Gitlab
+
+-Создан проект и пайплан
+
+-Создан раннер
+
+-Научились работать с условиями и ограничениями
